@@ -1,0 +1,6 @@
+const double kDouble5 = 5.0;
+const double kDouble10 = 10.0;
+const double kDouble20 = 20.0;
+const double kDouble40 = 40.0;
+
+const String baconDescription = 'Kielbasa cow ham tenderloin pork belly pig rump kevin strip steak ball tip beef ribs shoulder tail chislic tri-tip. Flank cow frankfurter, shank shoulder chislic capicola strip steak venison doner. T-bone tenderloin porchetta biltong, doner meatball sirloin meatloaf leberkas cupim chicken brisket. Tail pastrami ground round tenderloin alcatra ham hock boudin buffalo turkey chuck hamburger flank. Shank alcatra fatback short ribs, pancetta strip steak doner bacon tail chislic sirloin biltong. Kielbasa pork loin jerky t-bone, drumstick salami pastrami swine fatback flank frankfurter ground round beef pig ham hock. Biltong swine sausage short loin, fatback pork belly picanha frankfurter tri-tip, Ham hock doner fatback tri-tip shank shankle. T-bone tail beef ribs pastrami alcatra bacon buffalo picanha kielbasa prosciutto ball tip drumstick pork belly venison capicola. Ham hock pastrami porchetta turducken pig andouille, bresaola shank. Kielbasa biltong pork loin turkey tenderloin brisket prosciutto porchetta shoulder kevin ball tip swine sirloin bacon filet mignon.';
